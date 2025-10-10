@@ -1,10 +1,13 @@
 ---
 title: Home
-layout: breakouts
+layout: editorial
 ---
 
+::hero
+#title
 # Hi there! 👋 
 
-This is the home page of the website.
+#description
+This is the home page of the website.\
 Edit this page in the `content/index.md` file.
-
+::

@@ -1,5 +1,1 @@
 @unocss;
-
-.app-default-layout > div:first-child {
-    @apply mb-10;
-}

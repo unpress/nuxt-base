@@ -16,7 +16,6 @@ export default defineAppConfig({
       },
     },
     theme: {
-      customizable: false,
       color: 'red',
       radius: 0.5,
     },
@@ -24,19 +23,18 @@ export default defineAppConfig({
       enable: false,
       showClose: true,
       content: 'Awesome banner 🚀',
-      to: 'https://unpress.dev',
+      to: 'https://wordup.md',
       target: '_blank',
       border: false,
     },
     header: {
-      title: 'Unpress nuxt-base',
-      showTitle: false,
+      title: 'WordUp nuxt-starterkit',
+      showTitle: true,
       logo: {
         light: '/logo.svg',
         dark: '/logo-dark.svg',
       },
       darkModeToggle: true,
-      class: 'p-4 shadow-md',
     },
     aside: {
       useLevel: true,
